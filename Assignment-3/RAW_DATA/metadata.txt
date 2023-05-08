@@ -1,0 +1,8 @@
+The data is given by the professor to do the Assignment on the date of  2023.
+Description: This dataset contains measurements of UserName, ScreenName, Location, TweetAt, OriginalTweet and Sentiment
+.
+Format: CSV
+Fields: UserName, ScreenName, Location, TweetAt, OriginalTweet and Sentiment
+Where Sentiment has the values of positive, negative, extremely positive and extremely negative.
+Units: number, location, date, text, sentiment.
+Source: Self-reported measurements
